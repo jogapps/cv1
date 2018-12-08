@@ -8,7 +8,7 @@ $(this).dequeue();
 	alert($("img").attr("alt"));
 	alert($("img").attr("height"));
 	//alert(jQuery("img").attr("alt"));
-	alert("your fada well well");
+	alert(" just testing ");
 	alert($("#someTxt").text());
 	$("#image").attr("src")="backgroundc.jpg";
 	var thisMoment= new Date();
