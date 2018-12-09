@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(235, 234, 233);
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+  border-radius: 100%;
+}
+
+hr {
+  border-style: dashed;
+  color: rgb(142, 138, 136);
+  }
+
+h1, h2, h3 {
+  color: rgb(79, 176, 174);
+}
+
+td {
+  padding: 10px;
+}
